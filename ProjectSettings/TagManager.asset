@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Bullet
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ' Fondo'
+    uniqueID: 3285399169
+    locked: 0
+  - name: Estructura
+    uniqueID: 888614381
+    locked: 0
+  - name: Consumibles
+    uniqueID: 2022407345
+    locked: 0
+  - name: Enemigos
+    uniqueID: 4271341393
+    locked: 0
+  - name: Player
+    uniqueID: 2643428743
+    locked: 0
+  - name: Ui
+    uniqueID: 1079569743
     locked: 0
